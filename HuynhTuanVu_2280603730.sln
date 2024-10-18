@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De02_GUI", "De02_GUI\De02_GUI.csproj", "{7D408344-0A40-4742-B3C9-8A1ECA77CDA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De02_BUS", "De02_BUS\De02_BUS.csproj", "{188F0300-EBC8-439D-BC0C-4BB8DDBFA260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De02_DAL", "De02_DAL\De02_DAL.csproj", "{6C8D2A32-344E-489A-AE78-A29AC87731F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D408344-0A40-4742-B3C9-8A1ECA77CDA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D408344-0A40-4742-B3C9-8A1ECA77CDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D408344-0A40-4742-B3C9-8A1ECA77CDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D408344-0A40-4742-B3C9-8A1ECA77CDA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188F0300-EBC8-439D-BC0C-4BB8DDBFA260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188F0300-EBC8-439D-BC0C-4BB8DDBFA260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188F0300-EBC8-439D-BC0C-4BB8DDBFA260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188F0300-EBC8-439D-BC0C-4BB8DDBFA260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8D2A32-344E-489A-AE78-A29AC87731F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8D2A32-344E-489A-AE78-A29AC87731F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8D2A32-344E-489A-AE78-A29AC87731F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8D2A32-344E-489A-AE78-A29AC87731F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDBDDBC3-1EC1-4523-A3A3-4134A1C7FC82}
+	EndGlobalSection
+EndGlobal
